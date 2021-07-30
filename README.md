@@ -3,9 +3,9 @@
 
 <div>
   <a href="https://github.com/mvmartin">
-  <img height="135" src="https://github-readme-stats.vercel.app/api?username=mvmartin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmartin&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  <img height="138" src="https://github-readme-stats.vercel.app/api?username=mvmartin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+  <img height="138" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvmartin&layout=compact&langs_count=7&theme=tokyonight"/>
+    </div>
 
 <div style="display: inline_block"><br>
 
