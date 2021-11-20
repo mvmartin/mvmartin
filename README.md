@@ -15,7 +15,6 @@ Sou o Marcos, seja bem-vindo ao meu GitHub!
   <img align="center" alt="Mv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mv-Excel" height="35" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
   <img align="center" alt="Mv-PowerBi" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-  <img align="center" alt="Mv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  <br>
 
