@@ -13,6 +13,8 @@ Sou o Marcos, seja bem-vindo ao meu GitHub!
   <img align="center" alt="Mv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mv-React" height="35" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img align="center" alt="Mv-MUI" height="30" width="40" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
   <img align="center" alt="Mv-Excel" height="35" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
   <img align="center" alt="Mv-PowerBi" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png"/>
 </div>
